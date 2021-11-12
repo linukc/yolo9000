@@ -2,4 +2,4 @@
 
 echo $(echo "Hello $(whoami)")
 
-docker exec -ti mindspore /bin/bash
+docker exec -ti yolo9000_container /bin/bash
